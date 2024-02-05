@@ -1,0 +1,51 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1707116413718,504,HTTP Request,200,OK,Thread Group2 2-1,text,true,,115567,117,1,2,https://casekaro.com/,464,0,370
+1707116413718,529,home/-698,200,OK,Thread Group1 1-1,text,true,,31194,694,1,1,https://casekaro.com/,529,0,367
+1707116414268,159,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-1,text,true,,26954,1382,1,1,https://casekaro.com/pages/mobile-back-covers,159,0,0
+1707116414432,267,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-1,text,true,,26719,1382,1,1,https://casekaro.com/pages/apple-covers-cases,267,0,0
+1707116414703,273,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-1,text,true,,35144,1355,1,1,https://casekaro.com/collections/mouse-pad,272,0,0
+1707116415601,154,home/-698,200,OK,Thread Group1 1-2,text,true,,31115,694,1,2,https://casekaro.com/,154,0,30
+1707116415617,179,HTTP Request,200,OK,Thread Group2 2-2,text,true,,115577,117,1,2,https://casekaro.com/,107,0,32
+1707116415759,119,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-2,text,true,,26882,1382,1,1,https://casekaro.com/pages/mobile-back-covers,119,0,0
+1707116415881,125,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-2,text,true,,26758,1382,1,1,https://casekaro.com/pages/apple-covers-cases,125,0,0
+1707116416009,162,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-2,text,true,,35093,1355,1,1,https://casekaro.com/collections/mouse-pad,162,0,0
+1707116417600,144,home/-698,200,OK,Thread Group1 1-3,text,true,,31126,694,1,2,https://casekaro.com/,144,0,31
+1707116417600,146,HTTP Request,200,OK,Thread Group2 2-3,text,true,,115570,117,1,2,https://casekaro.com/,104,0,30
+1707116417756,117,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-3,text,true,,26861,1382,1,1,https://casekaro.com/pages/mobile-back-covers,117,0,0
+1707116417876,117,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-3,text,true,,26764,1382,1,1,https://casekaro.com/pages/apple-covers-cases,117,0,0
+1707116417996,87,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-3,text,true,,35063,1355,1,1,https://casekaro.com/collections/mouse-pad,87,0,0
+1707116419584,169,home/-698,200,OK,Thread Group1 1-4,text,true,,31202,694,1,2,https://casekaro.com/,169,0,49
+1707116419601,167,HTTP Request,200,OK,Thread Group2 2-4,text,true,,115562,117,1,2,https://casekaro.com/,126,0,42
+1707116419758,127,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-4,text,true,,26932,1382,1,1,https://casekaro.com/pages/mobile-back-covers,127,0,0
+1707116419887,122,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-4,text,true,,26729,1382,1,1,https://casekaro.com/pages/apple-covers-cases,122,0,0
+1707116420012,243,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-4,text,true,,35030,1355,1,1,https://casekaro.com/collections/mouse-pad,243,0,0
+1707116421584,242,home/-698,200,OK,Thread Group1 1-5,text,true,,31105,694,1,2,https://casekaro.com/,242,0,111
+1707116421602,240,HTTP Request,200,OK,Thread Group2 2-5,text,true,,115555,117,1,2,https://casekaro.com/,237,0,91
+1707116421830,137,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-5,text,true,,26746,1382,1,1,https://casekaro.com/pages/mobile-back-covers,137,0,0
+1707116421969,142,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-5,text,true,,26679,1382,1,1,https://casekaro.com/pages/apple-covers-cases,142,0,0
+1707116422113,196,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-5,text,true,,34865,1355,1,1,https://casekaro.com/collections/mouse-pad,196,0,0
+1707116423600,191,HTTP Request,200,OK,Thread Group2 2-6,text,true,,115552,117,1,2,https://casekaro.com/,187,0,62
+1707116423584,220,home/-698,200,OK,Thread Group1 1-6,text,true,,31026,694,1,1,https://casekaro.com/,220,0,73
+1707116423807,183,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-6,text,true,,26802,1382,1,1,https://casekaro.com/pages/mobile-back-covers,183,0,0
+1707116423993,192,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-6,text,true,,26740,1382,1,1,https://casekaro.com/pages/apple-covers-cases,192,0,0
+1707116424187,195,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-6,text,true,,35008,1355,1,1,https://casekaro.com/collections/mouse-pad,194,0,0
+1707116425583,238,home/-698,200,OK,Thread Group1 1-7,text,true,,31034,694,1,2,https://casekaro.com/,237,0,66
+1707116425610,212,HTTP Request,200,OK,Thread Group2 2-7,text,true,,115559,117,1,2,https://casekaro.com/,207,0,79
+1707116425825,147,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-7,text,true,,26871,1382,1,1,https://casekaro.com/pages/mobile-back-covers,147,0,0
+1707116425975,159,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-7,text,true,,26794,1382,1,1,https://casekaro.com/pages/apple-covers-cases,159,0,0
+1707116426136,217,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-7,text,true,,34941,1355,1,1,https://casekaro.com/collections/mouse-pad,216,0,0
+1707116427585,207,home/-698,200,OK,Thread Group1 1-8,text,true,,31060,694,1,2,https://casekaro.com/,207,0,76
+1707116427599,207,HTTP Request,200,OK,Thread Group2 2-8,text,true,,115567,117,1,2,https://casekaro.com/,203,0,76
+1707116427795,131,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-8,text,true,,26801,1382,1,1,https://casekaro.com/pages/mobile-back-covers,131,0,0
+1707116427929,139,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-8,text,true,,26756,1382,1,1,https://casekaro.com/pages/apple-covers-cases,139,0,0
+1707116428071,133,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-8,text,true,,35058,1355,1,1,https://casekaro.com/collections/mouse-pad,133,0,0
+1707116429582,214,home/-698,200,OK,Thread Group1 1-9,text,true,,31041,694,1,2,https://casekaro.com/,213,0,83
+1707116429615,282,HTTP Request,200,OK,Thread Group2 2-9,text,true,,115559,117,1,2,https://casekaro.com/,217,0,73
+1707116429799,139,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-9,text,true,,26743,1382,1,1,https://casekaro.com/pages/mobile-back-covers,139,0,0
+1707116429940,190,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-9,text,true,,26793,1382,1,1,https://casekaro.com/pages/apple-covers-cases,190,0,0
+1707116430134,137,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-9,text,true,,35042,1355,1,1,https://casekaro.com/collections/mouse-pad,137,0,0
+1707116431616,224,HTTP Request,200,OK,Thread Group2 2-10,text,true,,115558,117,1,2,https://casekaro.com/,220,0,90
+1707116431583,272,home/-698,200,OK,Thread Group1 1-10,text,true,,31135,694,1,1,https://casekaro.com/,272,0,84
+1707116431858,185,mobile/pages/mobile-back-covers-866,200,OK,Thread Group1 1-10,text,true,,26948,1382,1,1,https://casekaro.com/pages/mobile-back-covers,185,0,0
+1707116432045,184,mobile/pages/apple-covers-cases-912,200,OK,Thread Group1 1-10,text,true,,26710,1382,1,1,https://casekaro.com/pages/apple-covers-cases,183,0,0
+1707116432231,190,"mobile/collections/mouse-pad-1,091",200,OK,Thread Group1 1-10,text,true,,35081,1355,1,1,https://casekaro.com/collections/mouse-pad,190,0,0
